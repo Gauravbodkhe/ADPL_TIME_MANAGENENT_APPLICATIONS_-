@@ -8,7 +8,7 @@ struct Task {
     std::string name;
     int duration;
 };
-
+//APPLICATION CODE
 // Define a vector to store tasks
 std::vector<Task> tasks;
 
